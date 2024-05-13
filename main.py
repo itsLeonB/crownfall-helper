@@ -1,25 +1,19 @@
+import streamlit as st
 import pandas as pd
-from typing import List
-from fastapi import FastAPI
-from pydantic import BaseModel
+import json
 
-app = FastAPI()
+# Load tokens from JSON file
+with open('tokens.json') as f:
+    tokens = json.load(f)
 
-data = pd.read_csv("data.csv")
+# Load data from CSV file
+data = pd.read_csv('data.csv')
 
+# Create a multiselect widget for tokens
+selected_tokens = st.multiselect('Select tokens', options=tokens)
 
-class Token(BaseModel):
-    tokens: List[str]
+# Filter dataframe rows where at least two tokens match
+result = data[data[['token1', 'token2', 'token3']].isin(selected_tokens).sum(axis=1) >= 2]
 
-
-@app.get("/")
-def read_root():
-    return {"Hello": "World"}
-
-
-@app.post("/heroes")
-def return_heroes(token: Token):
-    result = data[
-        data[["token1", "token2", "token3"]].isin(token.tokens).sum(axis=1) >= 2
-    ]
-    return result["name"].tolist()
+# Display the names as a list
+st.write(result['name'].tolist())
