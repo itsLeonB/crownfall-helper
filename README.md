@@ -1,8 +1,6 @@
 # Dota 2 Crownfall Tokens Helper
 
-This API helps to filter heroes based on needed Crownfall tokens
-
-API Documentation can be accessed through [Postman](https://documenter.getpostman.com/view/29785588/2s9Yynm4LB)
+This API helps to filter heroes based on needed Crownfall tokens.
 
 ## Available Features
 
