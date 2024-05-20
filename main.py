@@ -1,25 +1,55 @@
 import pandas as pd
-from typing import List
-from fastapi import FastAPI
-from pydantic import BaseModel
-
-app = FastAPI()
-
-data = pd.read_csv("data.csv")
+import streamlit as st
+from pymongo.server_api import ServerApi
+from pymongo.mongo_client import MongoClient
 
 
-class Token(BaseModel):
-    tokens: List[str]
+@st.cache_resource
+def init_connection():
+    return MongoClient(st.secrets["uri"], server_api=ServerApi("1"))
 
 
-@app.get("/")
-def read_root():
-    return {"Hello": "World"}
+client = init_connection()
+heroes = pd.DataFrame(client.crownfall.heroes.find())
 
+tokens = [
+    "jumping",
+    "running",
+    "floating",
+    "walking",
+    "ranged",
+    "slithering",
+    "crawling",
+    "disabler",
+    "teleportation",
+    "flying",
+    "mounted",
+    "melee",
+    "durable",
+    "nuker",
+    "initiator",
+    "escape",
+    "pusher",
+    "healer",
+]
 
-@app.post("/heroes")
-def return_heroes(token: Token):
-    result = data[
-        data[["token1", "token2", "token3"]].isin(token.tokens).sum(axis=1) >= 2
-    ]
-    return result["name"].tolist()
+st.title("Dota 2 Crownfall Tokens Helper")
+st.write("This app helps to filter heroes by their tokens and recommended position.")
+st.divider()
+
+# Create a multiselect widget for tokens
+selected_tokens = st.multiselect("Select tokens", options=tokens)
+
+# Filter dataframe rows where at least two tokens match
+result = heroes[
+    heroes[["token1", "token2", "token3"]].isin(selected_tokens).sum(axis=1) >= 2
+]
+
+cols = st.columns(5)
+
+for i in range(1, 6):
+    with cols[i - 1]:
+        st.subheader(f"Position {i}")
+        names = result[result["position"] == i]["name"].tolist()
+        for name in names:
+            st.write(name)
