@@ -1,14 +1,11 @@
 # Dota 2 Crownfall Tokens Helper
 
-This API helps to filter heroes based on needed Crownfall tokens
-
-API Documentation can be accessed through [Postman](https://documenter.getpostman.com/view/29785588/2s9Yynm4LB)
+This app helps to filter heroes based on needed Crownfall tokens.
 
 ## Available Features
 
 - [x] Return Heroes based on token
-- [ ] Return recommended hero position
-- [ ] Return heroes based on the combination of token and position
+- [x] Return recommended hero position
 - [ ] Optimize heroes based on needed and unused token quantity
 
 ## Prerequisites
@@ -16,10 +13,11 @@ API Documentation can be accessed through [Postman](https://documenter.getpostma
 This project is built using:
 
 - Python 3.9.13
-- FastAPI
+- Streamlit
+- MongoDB
 - Pandas
 
-## Installation
+## Local Deployment
 
 1. Clone the project
 
@@ -29,10 +27,12 @@ This project is built using:
    pip install -r requirements
    ```
 
-3. Start the server:
+3. Make a new directory `.streamlit` and move `secrets.example.toml` there
+
+4. Rename the file to `secrets.toml`, and edit the values inside to your own values
+
+5. Start the server:
 
    ```sh
-   fastapi run
+   streamlit run main.py
    ```
-
-4. Refer to the docs by visiting `localhost:8000/docs`
