@@ -12,7 +12,7 @@ This app helps to filter heroes based on needed Crownfall tokens.
 
 This project is built using:
 
-- Python 3.9.13
+- Python
 - Streamlit
 - MongoDB
 - Pandas
