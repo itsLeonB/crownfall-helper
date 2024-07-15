@@ -1,125 +1,125 @@
-name,position,1token1,1token2,1token3,2token1,2token2,2token3
-Anti-Mage,1,jumping,melee,escape,agility,blade,blade
-Axe,3,running,durable,initiator,strength,strength,blade
-Bane,5,floating,disabler,disabler,universal,monster,elemental
-Bloodseeker,1,running,melee,initiator,monster,blade,blade
-Crystal Maiden,5,walking,walking,nuker,intelligence,elemental,wand
-Drow Ranger,1,ranged,ranged,pusher,agility,agility,ammunition
-Earthshaker,4,jumping,disabler,nuker,strength,spirit,beast
-Juggernaut,1,walking,melee,nuker,agility,agility,blade
-Mirana,4,jumping,disabler,running,universal,beast,ammunition
-Shadow Fiend,2,floating,nuker,nuker,demon,demon,monster
-Morphling,1,slithering,running,durable,strength,agility,elemental
-Phantom Lancer,1,running,jumping,melee,agility,polearm,polearm
-Puck,2,floating,jumping,running,intelligence,monster,elemental
-Pudge,3,walking,disabler,durable,strength,undead,blade
-Razor,3,floating,ranged,pusher,agility,undead,elemental
-Sand King,3,crawling,durable,initiator,universal,elemental,unarmed
-Storm Spirit,2,jumping,initiator,nuker,intelligence,god,elemental
-Sven,1,walking,melee,durable,strength,blade,blade
-Tiny,4,walking,disabler,nuker,strength,elemental,club
-Vengeful Spirit,5,walking,disabler,initiator,universal,undead,spirit
-Windranger,2,running,running,ranged,universal,ammunition,ammunition
-Zeus,2,jumping,nuker,nuker,god,god,elemental
-Kunkka,3,walking,disabler,nuker,strength,undead,blade
-Lina,2,floating,ranged,nuker,intelligence,elemental,elemental
-Lich,5,floating,nuker,nuker,intelligence,undead,elemental
-Lion,5,disabler,disabler,nuker,intelligence,demon,wand
-Shadow Shaman,5,walking,disabler,pusher,intelligence,wand,wand
-Slardar,3,slithering,durable,initiator,strength,club,club
-Tidehunter,3,walking,durable,initiator,strength,monster,club
-Witch Doctor,5,walking,disabler,healer,intelligence,polearm,wand
-Riki,1,jumping,escape,escape,intelligence,beast,blade
-Enigma,4,floating,disabler,pusher,universal,spirit,spirit
-Tinker,2,teleportation,nuker,nuker,intelligence,intelligence,ammunition
-Sniper,2,walking,ranged,ranged,agility,ammunition,ammunition
-Necrophos,2,walking,durable,healer,undead,undead,polearm
-Warlock,5,walking,pusher,healer,demon,monster,wand
-Beastmaster,3,walking,melee,pusher,universal,beast,blade
-Queen of Pain,2,jumping,escape,nuker,intelligence,demon,blade
-Venomancer,5,slithering,nuker,nuker,universal,undead,monster
-Faceless Void,1,jumping,melee,disabler,agility,monster,club
-Wraith King,3,walking,durable,pusher,undead,undead,blade
-Death Prophet,2,floating,floating,pusher,undead,spirit,spirit
-Phantom Assassin,1,jumping,melee,escape,agility,blade,polearm
-Pugna,4,walking,nuker,pusher,undead,wand,wand
-Templar Assassin,2,teleportation,melee,escape,agility,intelligence,blade
-Viper,2,flying,ranged,durable,agility,monster,elemental
-Luna,1,mounted,ranged,pusher,agility,beast,blade
-Dragon Knight,3,walking,flying,durable,strength,monster,blade
-Dazzle,5,walking,ranged,healer,universal,polearm,wand
-Clockwerk,4,jumping,initiator,initiator,universal,club,ammunition
-Leshrac,2,walking,nuker,nuker,intelligence,beast,elemental
-Nature's Prophet,4,teleportation,pusher,pusher,intelligence,elemental,polearm
-Lifestealer,1,crawling,melee,melee,undead,monster,strength
-Dark Seer,3,melee,disabler,initiator,universal,universal,unarmed
-Clinkz,2,running,ranged,pusher,demon,undead,ammunition
-Omniknight,3,walking,durable,healer,strength,god,club
-Enchantress,5,jumping,ranged,healer,beast,beast,polearm
-Huskar,2,jumping,ranged,durable,undead,blade,polearm
-Night Stalker,3,walking,running,flying,strength,demon,unarmed
-Broodmother,2,crawling,crawling,crawling,universal,monster,monster
-Bounty Hunter,4,walking,melee,escape,agility,blade,blade
-Weaver,1,slithering,crawling,ranged,agility,monster,god
-Jakiro,5,flying,nuker,pusher,intelligence,monster,monster
-Batrider,4,flying,mounted,escape,universal,beast,monster
-Chen,5,mounted,pusher,healer,beast,god,wand
-Spectre,1,teleportation,melee,durable,undead,spirit,blade
-Doom,3,walking,disabler,durable,strength,demon,blade
-Ancient Apparition,5,floating,ranged,nuker,spirit,elemental,elemental
-Ursa,1,jumping,melee,melee,agility,beast,unarmed
-Spirit Breaker,4,running,jumping,disabler,spirit,beast,club
-Gyrocopter,1,flying,ranged,nuker,agility,ammunition,ammunition
-Alchemist,1,walking,mounted,durable,monster,unarmed,blade
-Invoker,2,walking,disabler,nuker,strength,agility,intelligence
-Silencer,4,walking,ranged,nuker,intelligence,intelligence,blade
-Outworld Destroyer,2,flying,ranged,nuker,monster,polearm,wand
-Lycan,3,walking,crawling,melee,beast,beast,unarmed
-Brewmaster,3,running,durable,initiator,universal,beast,club
-Shadow Demon,5,walking,disabler,nuker,intelligence,demon,demon
-Lone Druid,2,walking,crawling,durable,universal,spirit,beast
-Chaos Knight,3,mounted,mounted,melee,strength,god,blade
-Meepo,2,walking,teleportation,initiator,agility,agility,club
-Treant Protector,5,walking,disabler,healer,strength,spirit,unarmed
-Ogre Magi,5,melee,durable,nuker,strength,strength,club
-Undying,4,walking,durable,nuker,strength,undead,unarmed
-Rubick,4,walking,disabler,nuker,intelligence,wand,wand
-Disruptor,5,mounted,disabler,nuker,intelligence,beast,club
-Nyx Assassin,4,crawling,durable,nuker,universal,monster,unarmed
-Naga Siren,1,slithering,slithering,melee,agility,monster,blade
-Keeper of the Light,2,mounted,teleportation,nuker,beast,god,wand
-Io,5,teleportation,teleportation,healer,universal,god,god
-Visage,2,flying,flying,pusher,universal,spirit,monster
-Slark,1,running,jumping,escape,agility,monster,blade
-Medusa,1,slithering,ranged,ranged,agility,monster,ammunition
-Troll Warlord,1,running,melee,ranged,agility,blade,blade
-Centaur Warrunner,3,running,durable,initiator,strength,strength,beast
-Magnus,3,crawling,melee,disabler,universal,beast,polearm
-Timbersaw,3,jumping,running,durable,strength,blade,blade
-Bristleback,3,walking,durable,durable,strength,monster,club
-Tusk,4,walking,escape,initiator,strength,beast,unarmed
-Skywrath Mage,4,flying,nuker,nuker,intelligence,polearm,wand
-Abaddon,3,mounted,melee,durable,universal,spirit,blade
-Elder Titan,4,teleportation,melee,disabler,spirit,god,club
-Legion Commander,3,walking,melee,disabler,strength,polearm,polearm
-Ember Spirit,2,teleportation,melee,escape,agility,god,elemental
-Earth Spirit,4,walking,disabler,initiator,strength,god,elemental
-Underlord,3,crawling,teleportation,durable,strength,demon,demon
-Terrorblade,1,walking,melee,ranged,demon,monster,blade
-Phoenix,4,flying,jumping,nuker,universal,elemental,elemental
-Techies,4,walking,mounted,nuker,universal,universal,ammunition
-Oracle,5,floating,healer,healer,intelligence,intelligence,wand
-Winter Wyvern,5,flying,flying,healer,intelligence,universal,elemental
-Arc Warden,2,walking,walking,nuker,agility,god,god
-Monkey King,1,jumping,jumping,melee,beast,polearm,polearm
-Dark Willow,4,flying,ranged,nuker,universal,universal,monster
-Pangolier,2,jumping,escape,initiator,universal,beast,blade
-Grimstroke,5,floating,disabler,nuker,intelligence,polearm,polearm
-Mars,3,walking,melee,initiator,strength,god,polearm
-Snapfire,4,mounted,ranged,nuker,universal,monster,ammunition
-Void Spirit,2,jumping,escape,nuker,universal,god,elemental
-Hoodwink,4,crawling,ranged,nuker,agility,beast,ammunition
-Dawnbreaker,3,jumping,teleportation,melee,strength,polearm,club
-Marci,4,jumping,melee,initiator,universal,unarmed,unarmed
-Primal Beast,3,crawling,disabler,durable,strength,beast,unarmed
-Muerta,1,walking,floating,nuker,undead,spirit,ammunition
+name,position,1token1,1token2,1token3,2token1,2token2,2token3,3token1,3token2,3token3
+Abaddon,3,mounted,melee,durable,universal,spirit,blade,mystic,armor,shield
+Alchemist,1,walking,mounted,durable,monster,unarmed,blade,mystic,mystic,partner
+Ancient Apparition,5,floating,ranged,nuker,spirit,elemental,elemental,frost,frost,frost
+Anti-Mage,1,jumping,melee,escape,agility,blade,blade,mystic,mystic,robe
+Arc Warden,2,walking,walking,nuker,agility,god,god,storm,helmet,partner
+Axe,3,running,durable,initiator,strength,strength,blade,blood,armor,armor
+Bane,5,floating,disabler,disabler,universal,monster,elemental,void,void,void
+Batrider,4,flying,mounted,escape,universal,beast,monster,flame,mask,partner
+Beastmaster,3,walking,melee,pusher,universal,beast,blade,blood,fur,minion
+Bloodseeker,1,running,melee,initiator,monster,blade,blade,blood,blood,mask
+Bounty Hunter,4,walking,melee,escape,agility,blade,blade,blood,mystic,mask
+Brewmaster,3,running,durable,initiator,universal,beast,club,flame,storm,nature
+Bristleback,3,walking,durable,durable,strength,monster,club,blood,armor,mask
+Broodmother,2,crawling,crawling,crawling,universal,monster,monster,blood,minion,minion
+Centaur Warrunner,3,running,durable,initiator,strength,strength,beast,blood,armor,fur
+Chaos Knight,3,mounted,mounted,melee,strength,god,blade,void,armor,illusion
+Chen,5,mounted,pusher,healer,beast,god,wand,mystic,armor,minion
+Clinkz,2,running,ranged,pusher,demon,undead,ammunition,flame,flame,minion
+Clockwerk,4,jumping,initiator,initiator,universal,club,ammunition,armor,helmet,ward
+Crystal Maiden,5,walking,walking,nuker,intelligence,elemental,wand,frost,robe,cape
+Dark Seer,3,melee,disabler,initiator,universal,universal,unarmed,void,robe,illusion
+Dark Willow,4,flying,ranged,nuker,universal,universal,monster,nature,mystic,partner
+Dawnbreaker,3,jumping,teleportation,melee,strength,polearm,club,flame,mystic,armor
+Dazzle,5,walking,ranged,healer,universal,polearm,wand,blood,mystic,robe
+Death Prophet,2,floating,floating,pusher,undead,spirit,spirit,mystic,robe,minion
+Disruptor,5,mounted,disabler,nuker,intelligence,beast,club,storm,storm,mystic
+Doom,3,walking,disabler,durable,strength,demon,blade,flame,armor,armor
+Dragon Knight,3,walking,flying,durable,strength,monster,blade,armor,shield,scale
+Drow Ranger,1,ranged,ranged,pusher,agility,agility,ammunition,frost,armor,cape
+Earth Spirit,4,walking,disabler,initiator,strength,god,elemental,nature,nature,ward
+Earthshaker,4,jumping,disabler,nuker,strength,spirit,beast,nature,fur,fur
+Elder Titan,4,teleportation,melee,disabler,spirit,god,club,void,illusion,partner
+Ember Spirit,2,teleportation,melee,escape,agility,god,elemental,flame,armor,illusion
+Enchantress,5,jumping,ranged,healer,beast,beast,polearm,nature,fur,minion
+Enigma,4,floating,disabler,pusher,universal,spirit,spirit,void,minion,minion
+Faceless Void,1,jumping,melee,disabler,agility,monster,club,void,void,armor
+Grimstroke,5,floating,disabler,nuker,intelligence,polearm,polearm,robe,mask,illusion
+Gyrocopter,1,flying,ranged,nuker,agility,ammunition,ammunition,flame,armor,mask
+Hoodwink,4,crawling,ranged,nuker,agility,beast,ammunition,nature,fur,illusion
+Huskar,2,jumping,ranged,durable,undead,blade,polearm,flame,blood,helmet
+Invoker,2,walking,disabler,nuker,strength,agility,intelligence,mystic,robe,cape
+Io,5,teleportation,teleportation,healer,universal,god,god,mystic,minion,partner
+Jakiro,5,flying,nuker,pusher,intelligence,monster,monster,flame,frost,scale
+Juggernaut,1,walking,melee,nuker,agility,agility,blade,blood,mask,ward
+Keeper of the Light,2,mounted,teleportation,nuker,beast,god,wand,mystic,mystic,illusion
+Kunkka,3,walking,disabler,nuker,strength,undead,blade,tide,tide,robe
+Legion Commander,3,walking,melee,disabler,strength,polearm,polearm,armor,helmet,cape
+Leshrac,2,walking,nuker,nuker,intelligence,beast,elemental,storm,nature,fur
+Lich,5,floating,nuker,nuker,intelligence,undead,elemental,frost,frost,robe
+Lifestealer,1,crawling,melee,melee,undead,monster,strength,void,blood,blood
+Lina,2,floating,ranged,nuker,intelligence,elemental,elemental,flame,flame,robe
+Lion,5,disabler,disabler,nuker,intelligence,demon,wand,mystic,mystic,cape
+Lone Druid,2,walking,crawling,durable,universal,spirit,beast,nature,fur,partner
+Luna,1,mounted,ranged,pusher,agility,beast,blade,armor,helmet,shield
+Lycan,3,walking,crawling,melee,beast,beast,unarmed,armor,fur,minion
+Magnus,3,crawling,melee,disabler,universal,beast,polearm,mystic,fur,fur
+Marci,4,jumping,melee,initiator,universal,unarmed,unarmed,blood,cape,partner
+Mars,3,walking,melee,initiator,strength,god,polearm,blood,helmet,shield
+Medusa,1,slithering,ranged,ranged,agility,monster,ammunition,mystic,shield,scale
+Meepo,2,walking,teleportation,initiator,agility,agility,club,nature,partner,partner
+Mirana,4,jumping,disabler,running,universal,beast,ammunition,armor,fur,partner
+Monkey King,1,jumping,jumping,melee,beast,polearm,polearm,fur,fur,minion
+Morphling,1,slithering,running,durable,strength,agility,elemental,tide,tide,illusion
+Muerta,1,walking,floating,nuker,undead,spirit,ammunition,void,mystic,minion
+Naga Siren,1,slithering,slithering,melee,agility,monster,blade,tide,illusion,illusion
+Nature's Prophet,4,teleportation,pusher,pusher,intelligence,elemental,polearm,nature,cape,minion
+Necrophos,2,walking,durable,healer,undead,undead,polearm,blood,blood,robe
+Night Stalker,3,walking,running,flying,strength,demon,unarmed,nature,void,mystic
+Nyx Assassin,4,crawling,durable,nuker,universal,monster,unarmed,nature,armor,shield
+Ogre Magi,5,melee,durable,nuker,strength,strength,club,flame,mystic,partner
+Omniknight,3,walking,durable,healer,strength,god,club,armor,armor,cape
+Oracle,5,floating,healer,healer,intelligence,intelligence,wand,mystic,robe,robe
+Outworld Destroyer,2,flying,ranged,nuker,monster,polearm,wand,nature,void,void
+Pangolier,2,jumping,escape,initiator,universal,beast,blade,shield,shield,scale
+Phantom Assassin,1,jumping,melee,escape,agility,blade,polearm,blood,helmet,cape
+Phantom Lancer,1,running,jumping,melee,agility,polearm,polearm,armor,illusion,illusion
+Phoenix,4,flying,jumping,nuker,universal,elemental,elemental,flame,flame,flame
+Primal Beast,3,crawling,disabler,durable,strength,beast,unarmed,blood,scale,scale
+Puck,2,floating,jumping,running,intelligence,monster,elemental,nature,mystic,scale
+Pudge,3,walking,disabler,durable,strength,undead,blade,blood,blood,blood
+Pugna,4,walking,nuker,pusher,undead,wand,wand,mystic,cape,ward
+Queen of Pain,2,jumping,escape,nuker,intelligence,demon,blade,blood,blood,armor
+Razor,3,floating,ranged,pusher,agility,undead,elemental,storm,storm,mask
+Riki,1,jumping,escape,escape,intelligence,beast,blade,blood,robe,fur
+Rubick,4,walking,disabler,nuker,intelligence,wand,wand,mystic,cape,mask
+Sand King,3,crawling,durable,initiator,universal,elemental,unarmed,nature,nature,blood
+Shadow Demon,5,walking,disabler,nuker,intelligence,demon,demon,blood,mystic,cape
+Shadow Fiend,2,floating,nuker,nuker,demon,demon,monster,flame,void,void
+Shadow Shaman,5,walking,disabler,pusher,intelligence,wand,wand,mask,ward,ward
+Silencer,4,walking,ranged,nuker,intelligence,intelligence,blade,mystic,helmet,shield
+Skywrath Mage,4,flying,nuker,nuker,intelligence,polearm,wand,mystic,armor,helmet
+Slardar,3,slithering,durable,initiator,strength,club,club,tide,scale,scale
+Slark,1,running,jumping,escape,agility,monster,blade,tide,void,scale
+Snapfire,4,mounted,ranged,nuker,universal,monster,ammunition,flame,scale,
+Sniper,2,walking,ranged,ranged,agility,ammunition,ammunition,blood,cape,mask
+Spectre,1,teleportation,melee,durable,undead,spirit,blade,void,void,illusion
+Spirit Breaker,4,running,jumping,disabler,spirit,beast,club,void,armor,fur
+Storm Spirit,2,jumping,initiator,nuker,intelligence,god,elemental,storm,armor,robe
+Sven,1,walking,melee,durable,strength,blade,blade,storm,armor,helmet
+Techies,4,walking,mounted,nuker,universal,universal,ammunition,helmet,ward,partner
+Templar Assassin,2,teleportation,melee,escape,agility,intelligence,blade,void,robe,mask
+Terrorblade,1,walking,melee,ranged,demon,monster,blade,scale,illusion,illusion
+Tidehunter,3,walking,durable,initiator,strength,monster,club,tide,tide,scale
+Timbersaw,3,jumping,running,durable,strength,blade,blade,nature,armor,helmet
+Tinker,2,teleportation,nuker,nuker,intelligence,intelligence,ammunition,helmet,shield,shield
+Tiny,4,walking,disabler,nuker,strength,elemental,club,nature,nature,blood
+Treant Protector,5,walking,disabler,healer,strength,spirit,unarmed,nature,nature,armor
+Troll Warlord,1,running,melee,ranged,agility,blade,blade,blood,blood,helmet
+Tusk,4,walking,escape,initiator,strength,beast,unarmed,frost,frost,fur
+Underlord,3,crawling,teleportation,durable,strength,demon,demon,flame,void,helmet
+Undying,4,walking,durable,nuker,strength,undead,unarmed,armor,helmet,minion
+Ursa,1,jumping,melee,melee,agility,beast,unarmed,nature,blood,fur
+Vengeful Spirit,5,walking,disabler,initiator,universal,undead,spirit,mystic,robe,illusion
+Venomancer,5,slithering,nuker,nuker,universal,undead,monster,scale,ward,ward
+Viper,2,flying,ranged,durable,agility,monster,elemental,nature,scale,scale
+Visage,2,flying,flying,pusher,universal,spirit,monster,armor,minion,minion
+Void Spirit,2,jumping,escape,nuker,universal,god,elemental,void,void,robe
+Warlock,5,walking,pusher,healer,demon,monster,wand,robe,minion,minion
+Weaver,1,slithering,crawling,ranged,agility,monster,god,void,blood,minion
+Windranger,2,running,running,ranged,universal,ammunition,ammunition,nature,robe,cape
+Winter Wyvern,5,flying,flying,healer,intelligence,universal,elemental,frost,mystic,scale
+Witch Doctor,5,walking,disabler,healer,intelligence,polearm,wand,mystic,ward,ward
+Wraith King,3,walking,durable,pusher,undead,undead,blade,blood,armor,cape
+Zeus,2,jumping,nuker,nuker,god,god,elemental,storm,storm,robe

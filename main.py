@@ -10,20 +10,15 @@ with open("hero_tokens/act1.json") as f:
     tokens_act1 = json.load(f)
 with open("hero_tokens/act2.json") as f:
     tokens_act2 = json.load(f)
+with open("hero_tokens/act3.json") as f:
+    tokens_act3 = json.load(f)
 
-
-@st.cache_resource
-def get_heroes_data():
-    client = MongoClient(st.secrets["uri"], server_api=ServerApi("1"))
-    return pd.DataFrame(client.crownfall.heroes.find())
-
-
-heroes = get_heroes_data()
+heroes = pd.read_csv('heroes.csv')
 
 st.title("Dota 2 Crownfall Tokens Helper")
 st.write("This app helps to filter heroes by their tokens and recommended position.")
 
-act1, act2 = st.tabs(["Act 1 - Midgate", "Act 2 - Druud"])
+act1, act2, act3 = st.tabs(["Act 1 - Midgate", "Act 2 - Druud", "Act 3 - Icewrack"])
 
 
 def token_selector(tokens: list[str], act: int):
@@ -47,3 +42,6 @@ with act1:
 
 with act2:
     token_selector(tokens_act2, 2)
+
+with act3:
+    token_selector(tokens_act3, 3)
